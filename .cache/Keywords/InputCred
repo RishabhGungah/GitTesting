@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "F488593BFC9E66FBBC4C39C9BD7AD43C",
+  "keywordClasses": [
+    {
+      "name": "InputCred",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "close",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
